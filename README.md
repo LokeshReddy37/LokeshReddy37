@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Lokesh Reddy
 
-<!--
-**LokeshReddy37/LokeshReddy37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A hardcore Java enthusiast and a sophisticated programmer.
+A curious Computer Science & Engineering (3rd year) student who loves building things that actually work.
 
-Here are some ideas to get you started:
+I enjoy solving real problems with code — whether it’s backend systems, full-stack apps, or exploring how emerging tech like quantum computing could shape the future.
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 3rd-year CSE student
+💻 Strong in Java and Decent in MERN Stack
+🔐 Currently working with Spring Boot + Security + Keycloak (JWT)
+🧠 Interested in system design, security, and scalable backends
+🌱 Learning every day — trading basics, advanced backend concepts, and research-oriented tech
+⚡ Career goal: work at an innovative startup, ideally in green / renewable energy
+
+
+📌 Projects I’ve Built
+📝 Blogger Application – Full-stack blog platform using MERN + Prisma
+💸 Paytm Clone – Wallet, transfers, authentication (MERN stack)
+👷 Blue-Collar Job App – Worker registration, pricing, booking system
+🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
