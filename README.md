@@ -21,6 +21,7 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 ---
 
 📌 Projects I’ve Built
+
 📝 Blogger Application – Full-stack blog platform using MERN + Prisma
 
 💸 Paytm Clone – Wallet, transfers, authentication (MERN stack)
