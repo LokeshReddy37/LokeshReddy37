@@ -8,9 +8,13 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 
 🎓 3rd-year CSE student
 💻 Strong in Java and Decent in MERN Stack
+
 🔐 Currently working with Spring Boot + Security + Keycloak (JWT)
+
 🧠 Interested in system design, security, and scalable backends
-🌱 Learning every day — trading basics, advanced backend concepts, and research-oriented tech
+
+🌱 Learning every day —  advanced backend concepts,trading and DSA .
+
 ⚡ Career goal: work at an innovative startup, ideally in green / renewable energy
 
 
