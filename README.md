@@ -28,8 +28,11 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 
 🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=github_dark)
 
+---
 
 ### 💪 Core Strengths
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
