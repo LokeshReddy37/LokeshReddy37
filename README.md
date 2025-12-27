@@ -19,3 +19,7 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 💸 Paytm Clone – Wallet, transfers, authentication (MERN stack)
 👷 Blue-Collar Job App – Worker registration, pricing, booking system
 🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
+
+## 📊 My Strong Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
