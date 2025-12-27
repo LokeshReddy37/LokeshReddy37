@@ -20,6 +20,10 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 👷 Blue-Collar Job App – Worker registration, pricing, booking system
 🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshReddy37&layout=compact&langs_count=8&theme=github_dark)
+
+
 ### 💪 Core Strengths
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
