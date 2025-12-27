@@ -3,9 +3,10 @@
 A hardcore Java enthusiast and a sophisticated programmer.
 A curious Computer Science & Engineering (3rd year) student who loves building things that actually work.
 
-I enjoy solving real problems with code — whether it’s backend systems, full-stack apps, or exploring how emerging tech like quantum computing could shape the future.
-🚀 About Me
+I enjoy solving real problems with code — whether it’s backend systems, full-stack apps or a non-tech problem.
 ---
+🚀 About Me
+
 🎓 3rd-year CSE student
 💻 Strong in Java and Decent in MERN Stack
 
