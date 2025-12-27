@@ -20,6 +20,9 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 👷 Blue-Collar Job App – Worker registration, pricing, booking system
 🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
 
-## 📊 My Strong Programming Languages
+### 💪 Core Strengths
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
