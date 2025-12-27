@@ -5,7 +5,7 @@ A curious Computer Science & Engineering (3rd year) student who loves building t
 
 I enjoy solving real problems with code — whether it’s backend systems, full-stack apps, or exploring how emerging tech like quantum computing could shape the future.
 🚀 About Me
-
+---
 🎓 3rd-year CSE student
 💻 Strong in Java and Decent in MERN Stack
 
@@ -17,6 +17,7 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 
 ⚡ Career goal: work at an innovative startup, ideally in green / renewable energy
 
+---
 
 📌 Projects I’ve Built
 📝 Blogger Application – Full-stack blog platform using MERN + Prisma
