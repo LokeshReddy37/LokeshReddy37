@@ -7,7 +7,7 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 ---
 🚀 About Me
 
-🎓 3rd-year CSE student
+🎓 4th-year CSE student
 💻 Strong in Java and Decent in MERN Stack
 
 🔐 Currently working with Spring Boot + Security + Keycloak (JWT)
