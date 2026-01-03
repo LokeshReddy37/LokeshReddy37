@@ -43,7 +43,7 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,nodejs,express,docker,aws,mysql,postgres,mongodb,redis,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,nodejs,express,docker,aws,mysql,postgres,mongodb,nginx,git,github" />
 </p>
 
 ---
