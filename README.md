@@ -30,9 +30,6 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 
 🔐 Spring Boot + Keycloak Security Setup – JWT, role-based access control
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=github_dark)
 
 ---
 
@@ -50,7 +47,8 @@ I enjoy solving real problems with code — whether it’s backend systems, full
 </p>
 
 ---
-## 📊 Top Languages by Commit
+## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshReddy37&layout=donut&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=LokeshReddy37&show_icons=true&theme=tokyonight" />
+
 
