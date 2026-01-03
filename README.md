@@ -1,7 +1,7 @@
 👋 Hi, I’m Lokesh Reddy
 
 A hardcore Java enthusiast and a sophisticated programmer.
-A curious Computer Science & Engineering (3rd year) student who loves building things that actually work.
+A curious Computer Science & Engineering (4th year) student who loves building things that actually work.
 
 I enjoy solving real problems with code — whether it’s backend systems, full-stack apps or a non-tech problem.
 ---
